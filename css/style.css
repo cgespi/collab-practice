@@ -1,0 +1,41 @@
+[class*="col"] {
+    background-color: #0d6efd;
+    color: white;
+}
+.row{
+    background-color: white !important;
+}
+  
+[class*="container"] {
+    margin-bottom: 5rem;
+}
+h2 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px;
+}
+.tall {
+    height: 0px;
+}
+.left{
+    width: 50%;
+    background-color: forestgreen;
+    height: 500px;
+}
+.right{
+    width: 50%;
+    background-color: lightsalmon;
+}
+.nav{
+    height: 60px;
+    background-color: crimson;
+}
+.head {
+    height: 4rem;
+    background-color:  gray;
+}
+.footer{
+    height: 60px;
+    text-align: center;
+    background-color: blueviolet;
+}
