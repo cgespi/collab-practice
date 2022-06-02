@@ -9,22 +9,27 @@
 [class*="container"] {
     margin-bottom: 5rem;
 }
-h2 {
+h1 {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 20px;
+}
+p{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .tall {
     height: 0px;
 }
 .left{
-    width: 50%;
     background-color: forestgreen;
     height: 500px;
 }
 .right{
-    width: 50%;
     background-color: lightsalmon;
+}
+.jumbotron{
+    background-color: mediumpurple;
 }
 .nav{
     height: 60px;
